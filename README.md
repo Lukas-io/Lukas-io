@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an innovative security platform 🔒 while diving into the exciting world of HNG internships 🚀, where I collaborate with classmates and fellow interns 🤝. As I hone my skills in Swift, SwiftUI, and UIKit to build sleek iOS apps 📱, I find balance by strumming my guitar 🎸, blending code and creativity in my daily life. No challenges hold me back—I'm just enjoying the journey! 😄
+Hey there! 👋 I'm teaming up with some awesome classmates and fellow developers 🤝 as I dive deep into learning Swift, SwiftUI, and UIKit to create some really cool iOS apps 📱. In between coding sessions, I love unwinding with my guitar 🎸—it's my way of blending creativity and passion. Honestly, I'm just having a blast on this journey, enjoying every step of the way! 😄
 
 
 ## 🌐 Socials:
