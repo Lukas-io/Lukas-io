@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm teaming up with some awesome classmates and fellow developers 🤝 as I dive deep into learning Flutter, SwiftUI, and UIKit to create some really cool iOS apps 📱. In between coding sessions, I love unwinding with my guitar 🎸—it's my way of blending creativity and passion. Honestly, I'm just having a blast on this journey, enjoying every step of the way! 😄
+Hey there! 👋 I'm teaming up with some awesome classmates and fellow developers 🤝 as I dive deep into Flutter, SwiftUI, and UIKit to create some really cool iOS apps 📱. In between coding sessions, I love unwinding with my guitar 🎸—it's my way of blending creativity and passion. Honestly, I'm just having a blast on this journey, enjoying every step of the way! 😄
 
 
 # 💻 Tech Stack:
