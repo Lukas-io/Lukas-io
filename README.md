@@ -1,6 +1,6 @@
-# Hey, I'm Wisdom 👋
+# Hey, I'm Wisdom 🧙‍♂️
 
-I build mobile apps — mostly Flutter, sometimes SwiftUI, occasionally whatever the job needs. I've shipped apps for fintech clients, delivery platforms, hackathons, and a few things I just wanted to exist. I care about the craft: clean architecture, real UX, and code that doesn't embarrass you six months later.
+I build mobile apps, mostly with Flutter, sometimes SwiftUI, occasionally whatever the job needs. I've built apps for fintech, delivery, social platforms, hackathons, and a few things I just wanted to exist. For me, great user experience is non-negotiable, everything else follows from that. I communicate clearly, I move fast, and I treat whatever I'm working on like it's my own product.
 
 Based in Lagos. Open to remote work.
 
@@ -23,52 +23,41 @@ Based in Lagos. Open to remote work.
 ## 🏗️ Things I've built
 
 ### [Trustlink](https://github.com/Trustlink-ng/trustlink-mobile) &nbsp;—&nbsp; 🏆 1st place, Kora 2.0 Hackathon
-Escrow platform for creators and clients. If you've ever done freelance work and gotten burned waiting for payment — this was built for that. I led mobile development, integrated Kora Pay so clients could share payment links directly. Both sides protected. Won first place.
+We built Trustlink for creators selling physical products (art, merch, handmade goods), who pour everything into their work and still end up chasing payments. It's an escrow platform where money goes in upfront and releases once the customer receives their products. I led the mobile development and integrated Kora Pay so creators could generate and share payment links straight from the app. We took it to the Kora 2.0 Hackathon and the judges loved the idea and the execution, and we won first place.
 
 `Flutter` · `Dart` · `Kora Pay API` · `REST`
 
 ---
 
-### [Syncc](https://github.com/AfroSync/syncc) &nbsp;—&nbsp; Semifinalist, AfricaCreative 2.0
-African music has always deserved more. Syncc is a sync licensing platform — filmmakers and ad agencies browse a canvas of African artists and get direct access to streamlined licensing drafts. We made it to the semis before the judges got cold feet on the legal angle. The problem still exists. Someone will solve it.
+### [Syncc](https://github.com/AfroSync/syncc) &nbsp;—&nbsp; Semifinalist, AfricaCreativesHackathon 2.0
+Finding the right music for a film or ad is harder than it should be, especially when you're looking for African artists whose sound actually fits the vision. Syncc was built for that gap. A platform where filmmakers and agencies could search across a wide range of African artists, see what was available for licensing, and connect directly with the right team. The interesting engineering challenge was the contract generation, designing a system flexible enough to accommodate the different legal terms across deal types, territories, and usage rights, while still feeling automatic and painless to the end user. We made the semifinals at AfricaCreativesHackathon 2.0.
 
 `Flutter` · `Dart` · `REST APIs`
 
 ---
 
 ### [Darkwood Coffee](https://github.com/Lukas-io/darkwood) &nbsp;—&nbsp; Apple Pay · Google Pay
-I wanted to understand native mobile payments properly — not just "it works," but actually understand it. So I built a full e-commerce storefront and integrated both Apple Pay (PassKit) and Google Pay from scratch using Flutter's `pay` package. Good reference if you're implementing payments in Flutter.
+I built Darkwood to figure out how Apple Pay and Google Pay actually work, not just how to use them, but what's really going on when someone taps their phone to pay. Built a full coffee shop storefront around it: browsing, cart, checkout. Both payment methods implemented through Flutter's pay package. The interesting discovery was that all that native smoothness is still just a wrapper, there's still a payment processor doing the real work underneath. Less about coffee, more about curiosity.
 
 `Flutter` · `Dart` · `pay ^3.3.0` · `iOS` · `Android`
 
 ---
 
 ### [Sigma Notes](https://github.com/Lukas-io/sigma_notes) &nbsp;—&nbsp; Block-based editor
-Started as a coding assessment. I liked where it was going so I kept building. Notion-style block content editor — text and voice blocks work today, images are coming. It's the kind of side project that teaches you more than any tutorial.
+This actually started off as an assessment task for a role I applied to previously. Although, after I finished the requirements, I just kept building out more features because I was genuinely enjoying it. It's a Notion-style block editor, text and voice blocks are live, image blocks are still in progress. Sometimes the projects that teach you the most are the ones that started as obligations.
 
 `Flutter` · `Dart`
 
 ---
 
 ### [Fluid](https://github.com/Lukas-io/fluid) &nbsp;—&nbsp; Motion experiment
-Not a product. Just me pushing on what's actually possible with Flutter's animation system — a visual audio player with character video backgrounds. I think code should be able to feel like art sometimes.
+Purely an experiment. I wanted to see how far I could push Flutter's animation system without reaching for any external libraries, a visual audio player with character video backgrounds. It's not a product and it was never meant to be. I just think there's something worth exploring in the idea that code can feel cinematic.
 
 `Flutter` · `Dart` · `Animations`
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Lukas-io&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lukas-io&theme=dark&hide_border=true)
-
----
-
-## A bit more
-
-I've shipped production apps for clients — a food delivery platform, a fintech app, a few others. I don't always talk about client work publicly but the reps show up in how I build.
-
-On the side I'm building **[Daily Summit](https://dailysummit.app)** — voice-first async standups for remote teams. 60 seconds, auto-transcribed, searchable. It exists because I genuinely think the way most remote teams do standups is broken.
+I've shipped production apps for clients across fintech, crypto, telematics, marine hospitality, and more over three years of agency work. I don't always talk about that work publicly but the experience shows up in how I build. I've built apps for clients across all kinds of engagements, not every project was a dream but each one made me sharper. Right now I'm building **[Daily Summit](https://dailysummit.app)** because I've personally felt how broken remote standups are and genuinely believe there's a better way.
 
 ---
 
