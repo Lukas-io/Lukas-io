@@ -22,7 +22,7 @@ Based in Lagos. Open to remote work.
 
 ## 🏗️ Things I've built
 
-### [Trustlink](https://github.com/Trustlink-ng/trustlink-mobile) &nbsp;—&nbsp; 🏆 1st place, Kora 2.0 Hackathon
+### [Trustlink](https://github.com/Lukas-io/trustlink) &nbsp;—&nbsp; 🏆 1st place, Kora 2.0 Hackathon
 We built Trustlink for creators selling physical products (art, merch, handmade goods), who pour everything into their work and still end up chasing payments. It's an escrow platform where money goes in upfront and releases once the customer receives their products. I led the mobile development and integrated Kora Pay so creators could generate and share payment links straight from the app. We took it to the Kora 2.0 Hackathon and the judges loved the idea and the execution, and we won first place.
 
 `Flutter` · `Dart` · `Kora Pay API` · `REST`
